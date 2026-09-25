@@ -63,7 +63,7 @@ A **VLAN** logically separates devices into different broadcast domains even whe
 
 ## Validation
 
-- ExamCompass: **93.33%**
+- ExamCompass: **100%**
 
 ## Key takeaway
 
