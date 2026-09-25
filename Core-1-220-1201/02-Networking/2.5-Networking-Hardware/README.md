@@ -23,6 +23,10 @@
 - **ONT:** terminates a fiber connection at the customer premises.
 - **NIC:** connects a device to a network and has a physical MAC address.
 
+## Validation
+
+- ExamCompass: **100%**
+
 ## Key takeaway
 
 The important distinction is the role each device plays: forwarding between networks, connecting devices inside a network, providing wireless access, securing traffic, terminating ISP service, or providing the endpoint's network interface.
