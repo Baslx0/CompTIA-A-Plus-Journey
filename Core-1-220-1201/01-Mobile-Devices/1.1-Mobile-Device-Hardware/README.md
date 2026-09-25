@@ -7,6 +7,7 @@
 - Professor Messer
 - Official CompTIA A+ 220-1201 objectives
 - ChatGPT clarification and recall
+- ExamCompass
 
 ## Key concepts
 
@@ -25,6 +26,10 @@ The main serviceable components I focused on include:
 ### Wi-Fi antenna placement
 
 Laptop Wi-Fi antennas are commonly routed through the display assembly. If wireless performance becomes poor after screen or display work, the antenna connectors or routing are worth checking.
+
+## Validation
+
+- ExamCompass: **100%**
 
 ## Key takeaway
 
