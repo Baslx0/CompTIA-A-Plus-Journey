@@ -40,8 +40,7 @@ Other appliances in this objective include spam gateways, UTM devices, and load 
 
 ## Validation
 
-- ExamCompass: **90%**
-- Main gaps reviewed: AAA accounting and proxy vs. firewall
+- ExamCompass: **100%**
 
 ## Key takeaway
 
