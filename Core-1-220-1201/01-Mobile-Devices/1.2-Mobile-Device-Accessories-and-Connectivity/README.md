@@ -7,6 +7,7 @@
 - Professor Messer
 - Official CompTIA A+ 220-1201 objectives
 - ChatGPT clarification and recall
+- ExamCompass
 
 ## Key concepts
 
@@ -44,6 +45,10 @@ Both can share a phone's Internet connection.
 - **Drawing pad:** surface used with a stylus for drawing/input.
 - **Trackpad:** touch-sensitive pointing surface built into many laptops.
 - **TrackPoint:** pointing stick located between keys on some laptop keyboards.
+
+## Validation
+
+- ExamCompass: **100%**
 
 ## Key takeaway
 
