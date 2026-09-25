@@ -22,6 +22,14 @@ After finishing a topic or objective, I use **ExamCompass** as an independent kn
 
 I take the quiz without trying to memorize the question bank.
 
+My rule is simple:
+
+> **I do not move past an objective until I can score 100% on the relevant ExamCompass quiz.**
+
+If I miss questions, I review the underlying concepts and retake the quiz. If the concept still does not make sense, I use ChatGPT to work through it before testing again.
+
+The 100% score is not about memorizing the question bank; it is my final confirmation that the weak points were reviewed and the objective is ready to move on from.
+
 ## 4. Find gaps
 
 Wrong answers are useful because they reveal weak areas.
@@ -43,7 +51,7 @@ The point is to prove that I understand the idea in a different form.
 
 ## 6. Continue
 
-Once the concept is clear and any important gap is resolved, I move forward.
+Once the concept is clear, important gaps are resolved, and the objective has reached **100% on ExamCompass**, I move forward.
 
 I avoid repeatedly testing topics that I have already demonstrated I understand.
 
