@@ -47,7 +47,7 @@ Useful transport reminders from my review:
 
 ## Validation
 
-- Ports quiz: **100%**
+- ExamCompass: **100%**
 
 ## Key takeaway
 
