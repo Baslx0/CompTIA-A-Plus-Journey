@@ -36,7 +36,7 @@ A wider channel can provide more throughput, but it also occupies more spectrum 
 
 ## Validation
 
-Initial practice exposed gaps around band characteristics and some wireless terminology. After review and retesting, the objective was completed successfully.
+- ExamCompass: **100%**
 
 ## Key takeaway
 
