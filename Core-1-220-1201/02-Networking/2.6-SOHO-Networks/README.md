@@ -40,7 +40,7 @@ Two devices on the same local subnet can communicate directly without sending th
 
 ## Validation
 
-- ExamCompass IP Addressing Quiz: **100%**
+- ExamCompass: **100%**
 
 ## Key takeaway
 
