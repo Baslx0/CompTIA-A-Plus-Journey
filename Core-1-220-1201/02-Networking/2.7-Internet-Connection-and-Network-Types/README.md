@@ -36,7 +36,7 @@ A distinction that is easy to mix up:
 
 ## Validation
 
-- Objective 2.7 practice quiz: **10/10**
+- ExamCompass: **100%**
 
 ## Key takeaway
 
