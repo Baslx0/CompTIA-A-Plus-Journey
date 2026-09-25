@@ -44,6 +44,10 @@ Mobile devices may synchronize:
 
 Data caps matter when synchronization occurs over cellular connections.
 
+## Validation
+
+- ExamCompass: **100%**
+
 ## Key takeaway
 
 This objective is mainly about connecting a mobile device correctly and understanding how organizations configure, manage, and synchronize those devices.
