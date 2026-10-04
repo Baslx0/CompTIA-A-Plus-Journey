@@ -23,8 +23,8 @@ More detail: [STUDY-METHOD.md](./STUDY-METHOD.md)
 | Core 1 domain | Status |
 | --- | --- |
 | 1. Mobile Devices | Complete |
-| 2. Networking | In progress — Objective 2.8 next |
-| 3. Hardware | Not started |
+| 2. Networking | Complete |
+| 3. Hardware | In progress — Objective 3.2 next |
 | 4. Virtualization and Cloud Computing | Not started |
 | 5. Hardware and Network Troubleshooting | Not started |
 
